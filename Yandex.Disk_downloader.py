@@ -1,4 +1,9 @@
-import sys,argparse,requests,json,os
+import argparse
+import json
+import os
+import requests
+import sys
+
 
 def get_params():
     parser = argparse.ArgumentParser(description='This utility allows download files and dirs from Yandex.Disk.')
