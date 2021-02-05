@@ -32,9 +32,9 @@ if __name__ == '__main__':
     params = parser.parse_args()
     link = get_link(params.url)
     if params.d:
-        fragment = urllib.parse.urlparse(link).query
-        filename = dict(urllib.parse.parse_qsl(fragment))['filename']
         if not params.o:
+            fragment = urllib.parse.urlparse(link).query
+            filename = dict(urllib.parse.parse_qsl(fragment))['filename']
             params.o = filename
         subprocess.run(['wget', '-O', f'{params.o}', f'{link}'])
     else:
