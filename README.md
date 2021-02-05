@@ -1,4 +1,4 @@
-# Yandex.Disk_downloader
+# Yandex Disk Downloader tool 
 
 Примеры работы через командную строку:
 
