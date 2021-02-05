@@ -3,7 +3,6 @@ import json
 import subprocess
 
 import requests
-import wget as wget
 
 parser = argparse.ArgumentParser(
     description='This utility allows to download or create downloading links '
