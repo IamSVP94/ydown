@@ -6,6 +6,10 @@
 ```
 python ydown.py --url https://yadi.sk/d/ykm7UqF3nPveY 
 ```
+Сохранить файл с именем из диска
+```
+python ydown.py -d --url https://yadi.sk/d/ykm7UqF3nPveY 
+```
 Сохранить файл по указаному пути
 ```
 python ydown.py -d --url https://yadi.sk/d/ykm7UqF3nPveY -o ./filename.ext
