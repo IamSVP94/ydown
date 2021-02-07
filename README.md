@@ -1,5 +1,7 @@
 <h1 align="center">Yandex Disk Downloader tool</h1>
 
+![Upload Python Package](https://github.com/IamSVP94/ydown/workflows/Upload%20Python%20Package/badge.svg?branch=0.1&event=release)
+
 <!--
 <p align="center">
   <a href="https://pypi.org/project/IamSVP">
