@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://pypi.org/project/IamSVP">
-    <img alt="test.pypi link" alt="PyPI" src="https://img.shields.io/pypi/v/0.1?color=green&logo=Pypi&logoColor=green&style=for-the-badge">
+    <img alt="test.pypi link" alt="PyPI" src="https://img.shields.io/pypi/v/0.0.1?color=green&logo=Pypi&logoColor=green&style=for-the-badge">
   </a>
 </p>
 
